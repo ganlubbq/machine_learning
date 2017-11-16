@@ -35,6 +35,3 @@ plt.xlabel('Recall')
 plt.ylabel('Precision')
 plt.xlim([0.0, 1.01])
 plt.ylim([0.0, 1.01])
-
-
-# Binary classification example
